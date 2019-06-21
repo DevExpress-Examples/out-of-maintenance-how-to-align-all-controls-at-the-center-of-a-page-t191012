@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to align all controls at the center of a page
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t191012/)**
+<!-- run online end -->
 
 
 This example illustrates the approach described in the <a href="https://www.devexpress.com/Support/Center/p/T190995">How to align all controls at the center of a page</a> KB article.
